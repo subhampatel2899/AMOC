@@ -1,6 +1,6 @@
-# Adaptive Multiscale Operator Correction (AMOC)
+# Adaptive Multiscale Operator Correction (AMOC) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 PyTorch implementation of **Adaptive Multiscale Operator Correction (AMOC)** for PDE solution correction using a neural-operator prediction followed by physics-informed correction in a sparse spectral representation.
 
@@ -57,4 +57,6 @@ author = {Himanshu Pandey and Anshima Singh and Ratikanta Behera}
 
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+## License
+
+This project is released under the [MIT License](LICENSE).
