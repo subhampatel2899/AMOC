@@ -1,4 +1,6 @@
-# Adaptive Multiscale Operator Correction (AMOC) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+# Adaptive Multiscale Operator Correction (AMOC) 
+[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-8C1D40.svg)](https://neurips.cc/virtual/2026/loc/sydney/poster/149265)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
 
