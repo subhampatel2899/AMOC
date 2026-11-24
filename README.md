@@ -1,7 +1,6 @@
 # Adaptive Multiscale Operator Correction (AMOC)
 
 [![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-8C1D40.svg)](https://neurips.cc/virtual/2026/loc/sydney/poster/149265)
-[![OpenReview](https://img.shields.io/badge/OpenReview-Paper-b31b1b.svg)](https://openreview.net/forum?id=rbb6tqGnFf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 PyTorch implementation of **Adaptive Multiscale Operator Correction (AMOC)** for PDE solution correction using a neural-operator prediction followed by physics-informed refinement in a sparse spectral representation.
