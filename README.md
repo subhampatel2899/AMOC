@@ -55,6 +55,13 @@ This implementation builds on ideas and software ecosystems from prior work on n
   url       = {https://openreview.net/forum?id=c8P9NQVtmnO}
 }
 
+@article{pandey2026adaptive,
+  title={An adaptive wavelet-based PINN for problems with localized high-magnitude source},
+  author={Pandey, Himanshu and Behera, Ratikanta},
+  journal={arXiv preprint arXiv:2604.28180},
+  year={2026}
+}
+
 @article{PANDEY2026108860,
   title   = {An efficient wavelet-based physics-informed neural network for multiscale problems},
   author  = {Himanshu Pandey and Anshima Singh and Ratikanta Behera},
